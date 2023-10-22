@@ -2,7 +2,8 @@
 """
 A flask script that starts a Flask web application
 and displays the routes '/' and '/HBNB' '/c/<text>' '/python'
-'/python/text' '/number/<int:n>' '/number_template/<int:n>' 'number_odd_or_even/<n>'
+'/python/text' '/number/<int:n>' '/number_template/<int:n>'
+'number_odd_or_even/<n>'
 """
 
 from flask import Flask
